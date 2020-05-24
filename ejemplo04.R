@@ -59,6 +59,7 @@ help("rchisq")
 vec7 <- rchisq(n = 12, df =8)
 
 # Como tarea deben de aprender a utilizar las funciones rep y seq
+# Modificando Tarea
 #DESARROLLO DE LA TAREA
 
 # La funcion seq nos permite poner una secuencia de numeros 20 es el limite de numero , 

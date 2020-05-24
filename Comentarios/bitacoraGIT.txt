@@ -17,4 +17,25 @@ Verificamos que no somos un robot , hasta obtener el check
 
 Luego Creo un nuevo repositorio : NO marcar la opcion del readme  y dejar el 
 repositorio publico
+ejecuto pwd : consulto cual es el directorio actual 
+
+cd /e/Escritorio/RClase1b
+:modifico mi directorio actual 
+
+ls: listamos el contenido de nuestro directorio de trabajo 
+
+
+Inicializamos nuestro repositorio local :
+git init 
+
+Agrego los archivos del directorio de trabajo a mi repositorio (vacio)
+git add .
+
+Almacenamos el contenido de la carpeta o directorio de trabajo en el 
+repositorio local :
+git commit -a 
+
+Esto nos pide informacion el correo y usuario : 
+git config --global user.email "mar.zapatta@gmail.com"
+git config --global user.name "MarZapatta"
 
