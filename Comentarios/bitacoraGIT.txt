@@ -46,3 +46,6 @@ git remote add origin https://github.com/MarZapatta/ClaseMar1.b.git
 Para subir los datos o archivos del ultimo commit local
 git push-u origin master
 
+Para clonar cualquier repositorio:
+git clone https://github.com/azchr4ds/Clase2R4DS.git
+
