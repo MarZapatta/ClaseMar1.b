@@ -1,0 +1,15 @@
+Review
+
+*Los comentarios en R empiezan con el caracter #
+*Las funcioens que hemos visto son:
+
+setwd()
+getwd(dir)
+help(-)
+hep.search(-)
+dir()
+dire.create()
+
+*Todo problema debe ser formulado matricialmente, de ahi la importancia de saber trabajar con vectores y matrices en R.
+
+Tan o mas importante como saber utilizar una formula, es saber cuando NO utilizarla

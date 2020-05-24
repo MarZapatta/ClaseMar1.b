@@ -1,0 +1,20 @@
+PRIMER PASO:
+INSTALAR GIT APARTIR DE
+git-scm
+
+LUEGO ABRIMOS GIT BASH
+TENER EN CUENTA EL HECHO DE TENER UN REPOSITORIO LOCAL EN EL DISCO DURO Y EN ALGUN MOMENTO OPTAR POR SUBIR NUESTRO CODIGO A GITHUB.COM
+
+Para crear una cuenta : github.com -> Sign Up
+llenamos los campos :
+  user name 
+  Email add
+  Passwd
+  
+Verificamos que no somos un robot , hasta obtener el check
+  
+ Create Account 
+
+Luego Creo un nuevo repositorio : NO marcar la opcion del readme  y dejar el 
+repositorio publico
+
